@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.navv {
+  padding: 20px 50px;
+  background-color: rgb(128, 49, 233);
+  border-radius: 20px;
+}
+.navLinkk {
+  color: violet;
+  padding: 0 10px;
+}
+.navLinkk:hover {
+  color: lightskyblue;
+}
